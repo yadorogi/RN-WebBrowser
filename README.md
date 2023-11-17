@@ -1,2 +1,3 @@
-# RN-WebBrowser
-RN-WebBrowser
+# ReactNative Simple WebBrowser
+
+Sorry, This repository is no longer updated....
